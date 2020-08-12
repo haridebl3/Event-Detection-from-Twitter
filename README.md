@@ -1,1 +1,1 @@
-# Event-Detetion-from-Twitter
+# Event-Detection-from-Twitter
